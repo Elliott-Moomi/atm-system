@@ -1,0 +1,3 @@
+Mercy Magwele Current_Account_Statements.txt
+Account Number :5601279610
+Date :2024-05-12  |Time :00:46:11  |Transaction Type :MONEY_IN    |Account type :CURRENT_ACCOUNT     |Amount :R20000,00

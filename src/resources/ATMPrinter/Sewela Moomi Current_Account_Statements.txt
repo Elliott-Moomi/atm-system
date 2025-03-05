@@ -1,0 +1,7 @@
+Sewela Moomi Current_Account_Statements.txt
+Account Number :7343493931
+Date :2024-05-11  |Time :22:49:37  |Transaction Type :DEPOSIT     |Account type :CURRENT_ACCOUNT     |Amount :R110000,00
+Date :2024-05-12  |Time :00:43:13  |Transaction Type :WITHDRAWAL  |Account type :CURRENT_ACCOUNT     |Amount :R12,00
+Date :2024-05-12  |Time :00:46:11  |Transaction Type :TRANSFER    |Account type :CURRENT_ACCOUNT     |Amount :R20000,00
+Date :2024-05-12  |Time :00:46:54  |Transaction Type :TRANSFER    |Account type :CURRENT_ACCOUNT     |Amount :R15000,00
+Date :2024-05-12  |Time :00:47:25  |Transaction Type :TRANSFER    |Account type :CURRENT_ACCOUNT     |Amount :R10000,00
